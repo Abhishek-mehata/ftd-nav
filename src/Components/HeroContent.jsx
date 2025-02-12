@@ -1,6 +1,9 @@
 import React from 'react'
-import mobileHero from "../images/image-hero-mobile.png"
-import desktopHero from "../images/image-hero-desktop.png"
+// import mobileHero from "../images/image-hero-mobile.png"
+// import desktopHero from "../images/image-hero-desktop.png"
+
+import desktopHero from "../images/image-hero-mobile.png"
+import mobileHero from "../images/image-hero-desktop.png"
 
 const HeroContent = () => {
     return (
