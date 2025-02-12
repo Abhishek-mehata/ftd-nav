@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.almost-white {
+    color: hsl(0, 0%, 98%);
+}
+
+.medium-grey {
+    color: hsl(0, 0%, 41%);
+}
+
+.almost-black {
+    color: hsl(0, 0%, 8%);
+}
+
+/* 
+- Almost White: hsl(0, 0%, 98%)
+- Medium Gray: hsl(0, 0%, 41%)
+- Almost Black: hsl(0, 0%, 8%)
+*/
